@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou João Jordan
 
-<div align="center">
+<div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3F9FFF&center=true&width=600&lines=Full+Stack+Developer;System+Architecture+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 

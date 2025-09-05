@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou João Jordan
+# Olá! Eu sou João Jordan
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3F9FFF&center=true&width=600&lines=Full+Stack+Developer;System+Architecture+Enthusiast;C%2B%2B+%26+C%23+Specialist;Open+Source+Contributor" alt="Typing SVG" />
@@ -28,8 +28,6 @@ const joaoJordan = {
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### 🚀 Frameworks & Technologies
@@ -102,7 +100,7 @@ mindmap
       Microservices
     Frontend & Full Stack
       TypeScript
-      React/Angular
+      React
       Real-time Dashboards
     DevOps & Infrastructure
       Monitoring (Prometheus/Grafana)
@@ -116,19 +114,6 @@ mindmap
 
 </div>
 
-## 📈 Contribuições Recentes
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=debjordan&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
-</div>
-
-## 🎨 Interesses & Hobby Projects
-
-- 🔊 **Processamento de Áudio com IA** - Remoção de ruído e modificação vocal
-- 🔐 **Segurança & Autenticação** - JWT, OAuth2, SSL/TLS
-- 🏗️ **Arquitetura de Sistemas** - Microservices, Event-Driven Architecture
-- 📡 **IoT & Monitoramento** - Sensores, dashboards em tempo real
-- 🧮 **Algoritmos & Estruturas de Dados** - Sempre exercitando a lógica!
 
 ## 📞 Vamos Conectar?
 

@@ -1,10 +1,10 @@
-# 👋 Olá! Eu sou João Jordan
+# Olá! Eu sou João Jordan
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3F9FFF&center=true&width=600&lines=Full+Stack+Developer;System+Architecture+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
-## 🚀 Sobre mim
+## Sobre mim
 
 Desenvolvedor Full Stack na **Grendene S/A** 🇧🇷, apaixonado por criar soluções robustas e escaláveis. Especialista em arquiteturas distribuídas, IoT e sistemas de alto desempenho.
 
@@ -54,31 +54,25 @@ const joaoJordan = {
 
 <div align="center">
 
-### 🔍 [SSL Monitor](https://github.com/debjordan/ssl-monitor)
+### 🔍 [SSL Monitor](https://github.com/debjordan/AppsQt5Utilitarios )
 **Monitoramento robusto de certificados SSL/TLS**
-- Desenvolvido em C para máxima performance
-- Renovação automática de certificados
-- Alertas proativos de expiração
+- Todos os Apps estão sendo desenvolvido em C++.
+- Fique a vontade para contribuir e usar como quiser.
 
 ### 🏭 [Manutenção Preditiva](https://github.com/debjordan/ManutencaoPreditiva) ⭐
 **Sistema completo de IoT industrial**
 - Dashboard em tempo real
 - Simulador de sensores IoT
 - API REST para análise de dados
-- Tecnologia: TypeScript, Node.js
+- Tecnologia: TypeScript&SCSS, Node.js, C# - AspNetCore
 
-### 🔗 [Intercepto](https://github.com/debjordan/Intercepto) ⭐
-**Ferramenta de análise de tráfego HTTP**
-- Monitoramento em tempo real
-- Análise detalhada de headers e payloads
-- Interface intuitiva para desenvolvedores
-- Desenvolvido em C++ de alta performance
 
 ### 🛒 [E-commerce API](https://github.com/debjordan/ecommerce-api-nestjs) ⭐
 **API REST completa para e-commerce**
 - NestJS + TypeScript + PostgreSQL
 - Autenticação JWT robusta
 - Arquitetura escalável e moderna
+- Projeto que criei para reforçar aprendizagem
 
 </div>
 
@@ -127,7 +121,7 @@ mindmap
 </div>
 
 
-## 📞 Vamos Conectar?
+## 📈 Profile
 
 <div align="center">
   

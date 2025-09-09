@@ -89,33 +89,6 @@ const joaoJordan = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=debjordan&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-## 🎯 Áreas de Especialização
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((João Jordan))
-    Backend Development
-      C++ Systems
-      .NET Core APIs
-      Microservices
-    Frontend & Full Stack
-      TypeScript
-      React
-      Real-time Dashboards
-    DevOps & Infrastructure
-      Monitoring (Prometheus/Grafana)
-      SSL/TLS Management
-      System Administration
-    IoT & Industrial
-      Sensor Integration
-      Predictive Maintenance
-      Real-time Analytics
-```
-
-</div>
-
 ## 📈 Contribuições Recentes
 
 <div align="center">

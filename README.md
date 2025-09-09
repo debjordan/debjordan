@@ -54,8 +54,8 @@ const joaoJordan = {
 
 <div align="center">
 
-### 🔍 [SSL Monitor](https://github.com/debjordan/AppsQt5Utilitarios )
-**Monitoramento robusto de certificados SSL/TLS**
+### 🔍 [AppsQt5Utilitarios](https://github.com/debjordan/AppsQt5Utilitarios )
+**Contribuições OpenSource**
 - Todos os Apps estão sendo desenvolvido em C++.
 - Fique a vontade para contribuir e usar como quiser.
 

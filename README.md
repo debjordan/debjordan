@@ -6,7 +6,7 @@
 
 ## Sobre mim
 
-Desenvolvedor Full Stack na **Grendene S/A** 🇧🇷, apaixonado por criar soluções robustas e escaláveis. Especialista em arquiteturas distribuídas, IoT e sistemas de alto desempenho.
+Desenvolvedor Full Stack na **Grendene S/A** 🇧🇷, apaixonado por IoT, Engenharia e soluções de alto impacto.
 
 ## 🛠️ Tech Stack
 

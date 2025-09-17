@@ -8,18 +8,6 @@
 
 Desenvolvedor Full Stack na **Grendene S/A** 🇧🇷, apaixonado por criar soluções robustas e escaláveis. Especialista em arquiteturas distribuídas, IoT e sistemas de alto desempenho.
 
-```typescript
-const joaoJordan = {
-  location: "Brazil 🇧🇷",
-  company: "Grendene S/A",
-  focus: ["System Architecture", "Full Stack Development", "IoT Solutions"],
-  currentlyWorking: "Innovative enterprise solutions",
-  learning: "Advanced microservices patterns",
-  askMeAbout: ["C++", "C#", "TypeScript", "System Design", "IoT"],
-  funFact: "I love turning complex problems into elegant solutions"
-};
-````
-
 ## 🛠️ Tech Stack
 
 <div align="center">

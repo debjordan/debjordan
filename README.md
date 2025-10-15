@@ -10,7 +10,7 @@ Desenvolvedor Full Stack na **Grendene S/A** 🇧🇷, apaixonado por IoT, Engen
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div style="display: inline_block"><br>
 
 ### 💻 Languages
 

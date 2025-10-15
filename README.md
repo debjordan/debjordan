@@ -8,11 +8,11 @@
 
 Desenvolvedor Full Stack na **Grendene S/A** 🇧🇷, apaixonado por IoT, Engenharia e soluções de alto impacto.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div style="display: inline_block"><br>
 
-### 💻 Languages
+### Languages
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -22,7 +22,7 @@ Desenvolvedor Full Stack na **Grendene S/A** 🇧🇷, apaixonado por IoT, Engen
 
 ---
 
-### 🚀 Frameworks & Technologies
+### Frameworks & Technologies
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -33,7 +33,7 @@ Desenvolvedor Full Stack na **Grendene S/A** 🇧🇷, apaixonado por IoT, Engen
 
 ---
 
-### 🗄️ Databases & Tools
+### Databases & Tools
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -50,14 +50,14 @@ Desenvolvedor Full Stack na **Grendene S/A** 🇧🇷, apaixonado por IoT, Engen
 
 </div>
 
-### 🔍 [AppsQt5Utilitarios](https://github.com/debjordan/AppsQt5Utilitarios)
+### [AppsQt5Utilitarios](https://github.com/debjordan/AppsQt5Utilitarios)
 
 **Contribuições OpenSource**
 
 * Todos os Apps estão sendo desenvolvido em C++.
 * Fique à vontade para contribuir e usar como quiser.
 
-### 🏭 [Manutenção Preditiva](https://github.com/debjordan/ManutencaoPreditiva) ⭐
+### [Manutenção Preditiva](https://github.com/debjordan/ManutencaoPreditiva) ⭐
 
 **Sistema completo de IoT industrial**
 
@@ -66,7 +66,7 @@ Desenvolvedor Full Stack na **Grendene S/A** 🇧🇷, apaixonado por IoT, Engen
 * API REST para análise de dados
 * Tecnologia: TypeScript & SCSS, Node.js, C# - AspNetCore
 
-### 🛒 [E-commerce API](https://github.com/debjordan/ecommerce-api-nestjs) ⭐
+### [E-commerce API](https://github.com/debjordan/ecommerce-api-nestjs) ⭐
 
 **API REST completa para e-commerce**
 
@@ -77,7 +77,7 @@ Desenvolvedor Full Stack na **Grendene S/A** 🇧🇷, apaixonado por IoT, Engen
 
 </div>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <!-- removido count_private para evitar erro -->
@@ -89,13 +89,13 @@ Desenvolvedor Full Stack na **Grendene S/A** 🇧🇷, apaixonado por IoT, Engen
   <img src="https://streak-stats.demolab.com?user=debjordan&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
-## 📈 Contribuições Recentes
+## Contribuições Recentes
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=debjordan&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 </div>
 
-## 📈 Profile
+## Profile
 
 <div align="center">
 
@@ -107,7 +107,7 @@ Desenvolvedor Full Stack na **Grendene S/A** 🇧🇷, apaixonado por IoT, Engen
 ---
 
 <div align="center">
-  <i>💡 "Transformando ideias complexas em soluções elegantes, uma linha de código por vez."</i>
+  <i>"Transformando ideias complexas em soluções elegantes, uma linha de código por vez."</i>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=debjordan\&color=blueviolet\&style=for-the-badge)
 

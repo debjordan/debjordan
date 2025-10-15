@@ -48,6 +48,9 @@ Desenvolvedor Full Stack na **Grendene S/A** 🇧🇷, apaixonado por IoT, Engen
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+
 </div>
 
 ### [AppsQt5Utilitarios](https://github.com/debjordan/AppsQt5Utilitarios)

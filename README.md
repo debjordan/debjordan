@@ -6,7 +6,7 @@
 
 ## About Me
 
-Full Stack Developer at **Grendene S/A** 🇧🇷, passionate about IoT, Engineering, and high-impact solutions.
+Full Stack Developer, passionate about IoT, Engineering, and high-impact solutions.
 
 ## Tech Stack
 

@@ -1,15 +1,15 @@
 # João Jordan — Full Stack Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3F9FFF&center=true&width=600&lines=Full+Stack+Developer;System+Architecture+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3F9FFF&center=true&width=600&lines=Full+Stack+Developer;System+Architecture+Enthusiast;Open+Source+Contributor" />
 </div>
 
 ---
 
 ## Professional Summary
 
-Full Stack Developer focused on building scalable systems, backend architectures, and industrial/IoT solutions.
-Experienced in designing reliable APIs, real-time systems, and maintainable software architectures with strong emphasis on performance and engineering practices.
+Full Stack Developer focused on scalable backend systems, industrial/IoT solutions, and clean software architecture.
+Strong emphasis on performance, maintainability, and real-world engineering practices.
 
 ---
 
@@ -21,7 +21,7 @@ Experienced in designing reliable APIs, real-time systems, and maintainable soft
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Shell Script](https://img.shields.io/badge/Shell-121011?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
 
 ### Frameworks & Platforms
 
@@ -45,10 +45,6 @@ Experienced in designing reliable APIs, real-time systems, and maintainable soft
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge\&logo=prometheus\&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana\&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
-
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge\&logo=debian\&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge\&logo=arch-linux\&logoColor=white)
 
 ---
 
@@ -56,8 +52,8 @@ Experienced in designing reliable APIs, real-time systems, and maintainable soft
 
 ### AppsQt5Utilitarios
 
-Utility desktop applications written in C++, focused on performance and system-level tooling.
-Open-source and community-driven.
+High-performance desktop utilities written in C++, focused on system tooling and efficiency.
+Open source and community friendly.
 
 👉 [https://github.com/debjordan/AppsQt5Utilitarios](https://github.com/debjordan/AppsQt5Utilitarios)
 
@@ -65,11 +61,11 @@ Open-source and community-driven.
 
 ### Predictive Maintenance ⭐
 
-Industrial IoT platform for monitoring and predictive analysis.
+Industrial IoT monitoring and analytics platform.
 
 • Real-time dashboards
-• Sensor simulation environment
-• REST API for analytics
+• Sensor simulation
+• REST analytics API
 • Stack: TypeScript, Node.js, ASP.NET Core
 
 👉 [https://github.com/debjordan/ManutencaoPreditiva](https://github.com/debjordan/ManutencaoPreditiva)
@@ -78,26 +74,25 @@ Industrial IoT platform for monitoring and predictive analysis.
 
 ### E-commerce API ⭐
 
-RESTful backend architecture designed for scalable commerce systems.
+Scalable REST backend architecture.
 
 • NestJS + PostgreSQL
 • JWT authentication
-• Modular architecture
+• Modular design
 
 👉 [https://github.com/debjordan/ecommerce-api-nestjs](https://github.com/debjordan/ecommerce-api-nestjs)
 
 ---
 
-## GitHub Activity
+## GitHub Stats
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=debjordan&show_icons=true&theme=tokyonight"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debjordan&layout=compact&theme=tokyonight"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=debjordan&theme=tokyonight"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=debjordan&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debjordan&layout=compact&theme=tokyonight&cache_seconds=86400" />
+
+</div>
 
 ---
 
@@ -113,5 +108,7 @@ RESTful backend architecture designed for scalable commerce systems.
 ---
 
 <div align="center">
-  <i>Engineering software with clarity, performance, and purpose.</i>
+
+*Engineering software with clarity, performance, and purpose.*
+
 </div>
